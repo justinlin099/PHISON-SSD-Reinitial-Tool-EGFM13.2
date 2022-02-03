@@ -6,7 +6,7 @@ A reinitial tool for PHISON E16 Series SSD from gigabyte
 
 Do not use this tool for illegal purpose.
 
-This tool might broke your warranty.
+This tool might broke your ssd warranty.
 
 
 
